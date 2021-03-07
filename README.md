@@ -7,11 +7,14 @@ expressed or given.
 
 If you're converting a stock Elegoo Neptune 2 you must realize that this will most likely void your warranty 
 from Elegoo so be warned that there may be no going back.
+#
 
-**To Do List:**
+
+#**To Do List:**
  * UI Cleanup 
  * Filament Autoload FIX
  * Maybe more fixes to come :D
+#
 
 
 

@@ -14,7 +14,7 @@ from Elegoo so be warned that there may be no going back.
  * Maybe more fixes to come :D
 
 
-# Readme - English
+
 ## Features:
 
  * 4-Point Leveling-Assistant "Easy Leveling"
